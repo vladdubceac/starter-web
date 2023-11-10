@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vlad Dubceac dubceacvlad@gmail.com
 
 # THANKS
 
